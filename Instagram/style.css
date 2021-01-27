@@ -1,0 +1,194 @@
+body{
+
+font-family: 'Jura', sans-serif;
+background: rgb(5, 33, 53)   ;
+
+
+
+
+
+}
+
+.contenedor{
+   
+    display:flex;
+    flex-direction: column;
+      align-items: center;
+     
+
+  
+ 
+  
+ 
+}
+
+.menu {
+
+
+ 
+   background: white;
+   padding: 10PX;
+
+
+
+}
+
+.post-1 {
+
+    background: #B2BABB;
+    padding: 90PX;
+    margin-top: 50PX;
+    max-width: 500px;
+
+}
+
+.POSTLETRA{
+    margin-top: -100PX;
+    background: white;
+ 
+  
+}
+
+
+
+
+.photo-1 img {
+    max-width: 500px;
+}
+
+
+.descripcion-1{
+background: white;
+padding: 20px;
+margin-top: 10px;
+}
+
+.post-2 {
+
+    background: #B2BABB;
+    padding: 90PX;
+    margin-top: 50PX;
+    max-width: 500px;
+
+}
+
+.photo-2 img {
+    max-width: 500px;
+}
+
+.post2{
+
+ 
+    margin-top: -80PX;
+background: white;
+  
+
+}
+
+
+.descripcion-2{
+background: white;
+padding: 10px;
+margin-top: 10px;
+}
+
+.post-3 {
+
+    background: #B2BABB;
+    padding: 90PX;
+    margin-top: 50PX;
+     max-width: 500px;
+
+}
+
+
+.descri3{
+
+ 
+    margin-top: -80PX;;
+  background: white;
+  
+
+}
+
+.photo-3 img{
+max-width: 500px;
+
+}
+
+.descripcion-3{
+      margin-top: 10PX;;
+  background: white;
+  padding: 5px;
+}
+
+.post-4 {
+
+    background: #B2BABB;
+    padding: 90PX;
+    margin-top: 60PX;
+     max-width: 500px;
+
+}
+
+
+.descri4{
+
+ 
+    margin-top: -80PX;;
+  background: white;
+ 
+  
+
+}
+
+
+.descripcion-4 {
+     margin-top: 10PX;;
+  background: white;
+  padding: 5px;
+}
+
+
+.photo-4 img{
+max-width: 500px;
+
+}
+
+.post-5{
+
+    background: #B2BABB;
+    padding: 90PX;
+    margin-top: 50PX;
+     max-width: 500px;
+
+}
+
+.descri5{
+
+ background: white;
+    margin-top: -80PX;;
+  
+  
+
+}
+
+
+.photo-5 img{
+max-width: 500px;
+
+}
+
+.descripcion-5 {
+     margin-top: 10PX;;
+  background: white;
+  padding: 5px;
+}
+
+.fecha{
+ 
+ 
+  margin-left: 90%;
+ 
+ 
+}
